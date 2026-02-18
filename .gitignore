@@ -1,0 +1,10 @@
+# Common machine learning and Python files to ignore
+
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+*.pyc
+venv/
+data/
+models/
+.env
